@@ -1,0 +1,19 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.0",
+  "description": "A react start code to start apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishjatiwal/react-boilerplate.git"
+  },
+  "author": "Manish Jatiwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishjatiwal/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/manishjatiwal/react-boilerplate#readme"
+}
