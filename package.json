@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manishjatiwal/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/manishjatiwal/react-boilerplate#readme"
+  "homepage": "https://github.com/manishjatiwal/react-boilerplate#readme",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
 }
