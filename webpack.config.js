@@ -33,7 +33,7 @@ module.exports = {
     modules: [path.join(__dirname, './src'), 'node_modules'],
     extensions: ['.js', '.jsx'],
     alias: {
-      applications: path.join(__dirname, './applications')
+      applications: path.join(__dirname, './src/applications')
     }
   },
   devtool: 'inline-source-map',
