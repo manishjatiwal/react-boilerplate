@@ -8,7 +8,7 @@ function ApplicationLinks() {
       <ul>
         {routes.map(route => {
           return (
-            <li>
+            <li key={route.path}>
               <Link to={route.path}>{route.title}</Link>
             </li>
           )

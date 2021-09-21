@@ -1,3 +1,4 @@
+import Resume from 'applications/resume'
 import TestApplication from 'applications/test'
 
 const routes = [
@@ -5,6 +6,11 @@ const routes = [
     path: '/test',
     component: TestApplication,
     title: 'Test App'
+  },
+  {
+    path: '/resume',
+    component: Resume,
+    title: 'Resume'
   }
 ]
 
